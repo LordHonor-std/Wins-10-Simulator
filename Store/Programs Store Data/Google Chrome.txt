@@ -1,0 +1,36 @@
+<?view="true" info=""?>
+<main>
+     <informations>
+          app:package="https://drive.google.com/uc?export=download&id=1_AA7PrbiVKPH92gYCaL_okF5lIRMzrDt"
+          app:name="Google Chrome"
+          app:versionCode="1"
+          app:versionName="1.0"
+          <designe page:header="" page:pos="" page:scale="" />
+     </informations>
+
+     <status>
+          ad:type="none"
+          category:name="İletişim"
+          page:backgroundTexture="https://drive.google.com/uc?export=download&id=1CoalExoXfjbWH3A4keXlTALDw-5A7PLH"
+          app:image="https://drive.google.com/uc?export=download&id=1IQPONqiWARy323eRe8BI7XoapKkNO84I"
+          app:developer="Google LLC"
+          app:publisher="LordHonor std."
+          app:price="0"
+          page:shortDescription="dsaçma sapan bir uygulama boş ver sen \n anladın mı?"
+          page:description="yaw bi dur gardaş \n hep bir şeylikler bi dur ahpab \n sende dur\n hey senden \nbahsediyorum"
+     <status>
+
+     <screen-shots>
+          page:shotsCount="3"
+          page:schot="https://drive.google.com/uc?export=download&id=1CoalExoXfjbWH3A4keXlTALDw-5A7PLH"
+          page:schot="https://drive.google.com/uc?export=download&id=1IQPONqiWARy323eRe8BI7XoapKkNO84I"
+          page:schot="https://drive.google.com/uc?export=download&id=10x4xLPNpYmm0EEfssQhOwvtLkJ7im4tr"
+     </screen-shots>
+
+     <additional-information>
+          app:releaseDate="13.04.2021"
+          app:approxSize="43,1 KB"
+          app:ageRating="7+"
+          app:targetpath="C:\Program Files\Google\Chrome\Application\Google Chrome.exef"
+     </additional-information>
+</main>
