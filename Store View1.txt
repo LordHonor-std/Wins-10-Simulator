@@ -16,7 +16,7 @@
           <designe page:header="Featured internet browsers" page:pos="" page:scale="" />
           <designe page:desHeader="Most preferred by users" page:pos="" page:scale="" />
           <item page:package="abc" app:name="Opera Browser" app:image="https://static.wixstatic.com/media/c5d4ea_cfdbcd2dfcca430c887d9157e4643236~mv2.png" app:pricing="0" />
-          <item page:package="https://drive.google.com/uc?export=download&id=16WERCj2QXZP4mnPS0s2S6kjwuMqE3mGF" app:name="Google Chrome" app:image="https://static.wixstatic.com/media/c5d4ea_b6fd40b7d9c34dd6973135252d6c8e9f~mv2.png" app:pricing="0" />
+          <item page:package="https://raw.githubusercontent.com/LordHonor-std/Wins-10-Simulator/main/Store/Programs%20Store%20Data/Google%20Chrome.txt" app:name="Google Chrome" app:image="https://static.wixstatic.com/media/c5d4ea_b6fd40b7d9c34dd6973135252d6c8e9f~mv2.png" app:pricing="0" />
           <item page:package="hoi" app:name="Internet Explorer" app:image="https://static.wixstatic.com/media/c5d4ea_64ba887a3b9e4583a1baaaa990503f76~mv2.png" app:pricing="0" />
      </category-page>
 
