@@ -1,4 +1,0 @@
-Date="30.04.2021"
-Header="New Update"
-Description="With the new update, the base of the application has been rebuilt, so you may encounter errors.
-Please let us know if you encounter errors."
