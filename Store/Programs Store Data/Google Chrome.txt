@@ -16,8 +16,10 @@
           app:developer="Google LLC"
           app:publisher="LordHonor std."
           app:price="0"
-          page:shortDescription="dsaçma sapan bir uygulama boş ver sen \n anladın mı?"
-          page:description="yaw bi dur gardaş \n hep bir şeylikler bi dur ahpab \n sende dur\n hey senden \nbahsediyorum"
+          page:shortDescription="Hızlı, basit ve güvenli. Windows için Google Chrome tarayıcı"
+          page:description="Hızlı, basit ve güvenli. Windows için Google Chrome tarayıcı
+
+Google Chrome hızlı, kullanımı kolay ve güvenli bir web tarayıcısıdır."
      <status>
 
      <screen-shots>
