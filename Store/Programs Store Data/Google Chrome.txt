@@ -33,6 +33,7 @@ Google Chrome hızlı, kullanımı kolay ve güvenli bir web tarayıcısıdır."
           app:releaseDate="13.04.2021"
           app:approxSize="43,1 KB"
           app:ageRating="7+"
-          app:targetpath="C:\Program Files\Google\Chrome\Application\Google Chrome.exef"
+          app:targetpath="C:\Program Files\Google"
+          app:exefpath="C:\Program Files\Google\Chrome\Application\chrome.exef"
      </additional-information>
 </main>
