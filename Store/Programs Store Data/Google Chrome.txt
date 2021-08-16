@@ -1,7 +1,7 @@
 <?view="true" info=""?>
 <main>
      <informations>
-          app:package="https://drive.google.com/uc?export=download&id=1_AA7PrbiVKPH92gYCaL_okF5lIRMzrDt"
+          app:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Program%20Files/Google%20Chrome.zip"
           app:name="Google Chrome"
           app:versionCode="1"
           app:versionName="1.0"
