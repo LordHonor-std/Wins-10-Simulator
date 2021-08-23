@@ -11,7 +11,7 @@
      <status>
           ad:type="none"
           category:name="Themes"
-          page:backgroundTexture="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Pride%20202%20%20Bg.jpg"
+          page:backgroundTexture="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Pride%20202%20Bg.jpg"
           app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Pride%20202.jpg"
           app:developer="Microsoft Corporation"
           app:publisher="LordHonor std."
