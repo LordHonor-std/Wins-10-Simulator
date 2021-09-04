@@ -1,5 +1,5 @@
 <?view="true" info="" version="1"?>
 <main>
      <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Store%20Data/Pride%20202.txt" app:name="Pride 202" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Pride%20202.jpg" app:pricing="0" />
-     <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Store%20Data/Windows%2011%20Wallpapers.txt" app:name="Pride 202" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Windows%2011%20Wallpapers.jpg" app:pricing="0" />
+     <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Store%20Data/Windows%2011%20Wallpapers.txt" app:name="Windows 11 Wallpapers" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Windows%2011%20Wallpapers.jpg" app:pricing="0" />
 </main>
