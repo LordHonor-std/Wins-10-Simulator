@@ -1,0 +1,35 @@
+<?view="true" info=""?>
+<main>
+     <informations>
+          app:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Program%20Files/Cursor%20Editor.zip"
+          app:name="Cursor Editor"
+          app:versionCode="1"
+          app:versionName="1.0.0"
+          <designe page:header="" page:pos="" page:scale="" />
+     </informations>
+
+     <status>
+          ad:type="in"
+          category:name="System Tools"
+          page:backgroundTexture="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/"
+          app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Cursor%20Editor.png"
+          app:developer="LordHonor std."
+          app:publisher="LordHonor std."
+          app:price="0"
+          page:shortDescription="Customize your system's mouse pointer."
+          page:description="Customize your system's mouse pointer.  Change the color, size and speed of your mouse pointer with a single click with the Cursor Editor."
+     <status>
+
+     <screen-shots>
+          page:shotsCount="1"
+          page:schot=""
+     </screen-shots>
+
+     <additional-information>
+          app:releaseDate="00.09.2021"
+          app:approxSize="25.6 KB"
+          app:ageRating="3+"
+          app:targetpath="C:\Program Files\LordHonor"
+          app:exefpath="C:\Program Files\LordHonor\Cursor Editor\Cursor Editor.exef"
+     </additional-information>
+</main>
