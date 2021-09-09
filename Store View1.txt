@@ -15,7 +15,7 @@
           <designe page:logo="https://static.wixstatic.com/media/c5d4ea_2ce66717f6804b5785a0157b55fa4b32~mv2.jpg" page:color="" />
           <designe page:header="Featured internet browsers" page:pos="" page:scale="" />
           <designe page:desHeader="Most preferred by users" page:pos="" page:scale="" />
-     <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Programs%20Store%20Data/Opera%20Browser.txt" app:name="Opera Browser" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Opera%20Browser.png" app:pricing="0" />
+          <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Programs%20Store%20Data/Opera%20Browser.txt" app:name="Opera Browser" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Opera%20Browser.png" app:pricing="0" />
           <item page:package="https://raw.githubusercontent.com/LordHonor-std/Wins-10-Simulator/main/Store/Programs%20Store%20Data/Google%20Chrome.txt" app:name="Google Chrome" app:image="https://static.wixstatic.com/media/c5d4ea_b6fd40b7d9c34dd6973135252d6c8e9f~mv2.png" app:pricing="0" />
           <item page:package="hoi" app:name="Internet Explorer" app:image="https://static.wixstatic.com/media/c5d4ea_64ba887a3b9e4583a1baaaa990503f76~mv2.png" app:pricing="0" />
      </category-page>
@@ -33,8 +33,8 @@
 
      <suggested-page>
           <designe page:header="Special applications for you" page:pos="" page:scale="" />
-          <item page:package="none" app:name="System Editor" app:image="https://static.wixstatic.com/media/c5d4ea_bd1245b4c5a24ef48e8686ae0364e947~mv2.png" app:pricing="3$" />
-          <item page:package="none" app:name="Opera Browser" app:image="https://static.wixstatic.com/media/c5d4ea_cfdbcd2dfcca430c887d9157e4643236~mv2.png" app:pricing="0" />
+     <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Programs%20Store%20Data/System%20Editor.txt" app:name="System Editor" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/System%20Editor.png" app:pricing="0" />
+          <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Programs%20Store%20Data/Opera%20Browser.txt" app:name="Opera Browser" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Opera%20Browser.png" app:pricing="0" />
           <item page:package="none" app:name="Paint" app:image="https://static.wixstatic.com/media/c5d4ea_cdd74805f8884551b701a98ea1a7000b~mv2.png" app:pricing="0" />
           <item page:package="none" app:name="Firefox" app:image="https://static.wixstatic.com/media/c5d4ea_06765f60be2d4776b5c0f77b1f5b0314~mv2.png" app:pricing="0" />
           <item page:package="none" app:name="Notepad" app:image="https://static.wixstatic.com/media/c5d4ea_bdcf8b109825469c9fd5b777d6c36aa8~mv2.png" app:pricing="0" />
