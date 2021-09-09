@@ -1,0 +1,35 @@
+<?view="true" info=""?>
+<main>
+     <informations>
+          app:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Program%20Files/Mozilla%20Firefox.zip"
+          app:name="Mozilla Firefox"
+          app:versionCode="1"
+          app:versionName="1.0.0"
+          <designe page:header="" page:pos="" page:scale="" />
+     </informations>
+
+     <status>
+          ad:type="in"
+          category:name="Communication"
+          page:backgroundTexture="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/"
+          app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Mozilla%20Firefox.png"
+          app:developer="Mozilla Corporation"
+          app:publisher="LordHonor std."
+          app:price="0"
+          page:shortDescription="Mozilla Firefox browser for Windows."
+          page:description="Mozilla Firefox browser for Windows."
+     <status>
+
+     <screen-shots>
+          page:shotsCount="1"
+          page:schot=""
+     </screen-shots>
+
+     <additional-information>
+          app:releaseDate="09.09.2021"
+          app:approxSize="1,15 MB"
+          app:ageRating="7+"
+          app:targetpath="C:\Program Files"
+          app:exefpath="C:\Program Files\Mozilla Firefox\firefox.exef"
+     </additional-information>
+</main>
