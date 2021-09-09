@@ -15,7 +15,7 @@
           <designe page:logo="https://static.wixstatic.com/media/c5d4ea_2ce66717f6804b5785a0157b55fa4b32~mv2.jpg" page:color="" />
           <designe page:header="Featured internet browsers" page:pos="" page:scale="" />
           <designe page:desHeader="Most preferred by users" page:pos="" page:scale="" />
-     <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Store%20Data/Opera%20Browser.txt" app:name="Opera Browser" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Opera%20Browser.png" app:pricing="0" />
+     <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Programs%20Store%20Data/Opera%20Browser.txt" app:name="Opera Browser" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Opera%20Browser.png" app:pricing="0" />
           <item page:package="https://raw.githubusercontent.com/LordHonor-std/Wins-10-Simulator/main/Store/Programs%20Store%20Data/Google%20Chrome.txt" app:name="Google Chrome" app:image="https://static.wixstatic.com/media/c5d4ea_b6fd40b7d9c34dd6973135252d6c8e9f~mv2.png" app:pricing="0" />
           <item page:package="hoi" app:name="Internet Explorer" app:image="https://static.wixstatic.com/media/c5d4ea_64ba887a3b9e4583a1baaaa990503f76~mv2.png" app:pricing="0" />
      </category-page>
