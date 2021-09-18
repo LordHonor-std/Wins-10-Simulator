@@ -1,0 +1,35 @@
+<?view="true" info=""?>
+<main>
+     <informations>
+          app:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Program%20Files/Notepad.zip"
+          app:name="Notepad"
+          app:versionCode="1"
+          app:versionName="1.0.0"
+          <designe page:header="" page:pos="" page:scale="" />
+     </informations>
+
+     <status>
+          ad:type="in"
+          category:name="Productivity"
+          page:backgroundTexture="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/"
+          app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Notepad.png"
+          app:developer="Microsoft Corporation"
+          app:publisher="LordHonor std."
+          app:price="0"
+          page:shortDescription="Notepad, the fast and simple text editor for Windows for over 30 years, is now in the Store!"
+          page:description="Notepad, the fast and simple text editor for Windows for over 30 years, is now in the Store! Instantly view, edit and search plain text documents and source code files."
+     <status>
+
+     <screen-shots>
+          page:shotsCount="1"
+          page:schot=""
+     </screen-shots>
+
+     <additional-information>
+          app:releaseDate="18.09.2021"
+          app:approxSize="135 KB"
+          app:ageRating="3+"
+          app:targetpath="C:\Users\Admin\AppData\Local\Temp#C:\Program Files\Windows Apps\Notepad"
+          app:exefpath="C:\Windows\System32\notepad.exef"
+     </additional-information>
+</main>
