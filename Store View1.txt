@@ -38,7 +38,7 @@
           <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Programs%20Store%20Data/Opera%20Browser.txt" app:name="Opera Browser" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Opera%20Browser.png" app:pricing="0" />
           <item page:package="none" app:name="Paint" app:image="https://static.wixstatic.com/media/c5d4ea_cdd74805f8884551b701a98ea1a7000b~mv2.png" app:pricing="0" />
           <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Programs%20Store%20Data/Mozilla%20Firefox.txt" app:name="Firefox" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Mozilla%20Firefox.png" app:pricing="0" />
-          <item page:package="none" app:name="Notepad" app:image="https://static.wixstatic.com/media/c5d4ea_bdcf8b109825469c9fd5b777d6c36aa8~mv2.png" app:pricing="0" />
+          <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Store%20Data/Notepad.txt" app:name="Notepad" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Notepad.png" app:pricing="0" />
           <item page:package="none" app:name="Films And Tv" app:image="https://static.wixstatic.com/media/c5d4ea_0b434cee3be14e6992f326a85bc91a04~mv2.png" app:pricing="0" />
           <item page:package="none" app:name="Google Chrome" app:image="https://static.wixstatic.com/media/c5d4ea_b6fd40b7d9c34dd6973135252d6c8e9f~mv2.png" app:pricing="0" />
      </suggested-page>
