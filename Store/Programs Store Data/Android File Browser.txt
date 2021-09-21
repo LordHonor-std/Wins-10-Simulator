@@ -1,0 +1,34 @@
+<?view="true" info=""?>
+<main>
+     <informations>
+          app:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Program%20Files/Android%20File%20Browser.zip"
+          app:name="Android File Browser"
+          app:versionCode="1"
+          app:versionName="1.0.0"
+          <designe page:header="" page:pos="" page:scale="" />
+     </informations>
+
+     <status>
+          ad:type="in"
+          category:name="Browser"
+          page:backgroundTexture="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/"
+          app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Android%20File%20Browser.png"
+          app:developer="LordHonor std."
+          app:publisher="LordHonor std."
+          app:price="0"
+          page:shortDescription="Android File Browser allows you to view and modify the Files of your Android device."
+          page:description="Android File Browser allows you to view and modify the Files of your Android device."
+     <status>
+
+     <screen-shots>
+          page:shotsCount="0"
+     </screen-shots>
+
+     <additional-information>
+          app:releaseDate="21.09.2021"
+          app:approxSize="673 KB"
+          app:ageRating="7+"
+          app:targetpath="C:\Program Files\LordHonor"
+          app:exefpath="C:\Program Files\LordHonor\File Browser\Android\Android File Browser.exef"
+     </additional-information>
+</main>
