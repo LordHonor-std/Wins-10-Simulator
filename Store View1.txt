@@ -27,7 +27,7 @@
           <item page:package="none" app:name="WinRAR archiver" app:image="https://static.wixstatic.com/media/c5d4ea_28384b584b5440ac8a0cb60b6876a700~mv2.png" app:pricing="0" />
           <item page:package="none" app:name="Google Chrome" app:image="https://static.wixstatic.com/media/c5d4ea_b6fd40b7d9c34dd6973135252d6c8e9f~mv2.png" app:pricing="0" />
           <item page:package="none" app:name="Camera" app:image="https://static.wixstatic.com/media/c5d4ea_b8bfc97d2d5649aeb077de0414dbd01d~mv2.png" app:pricing="0" />
-          <item page:package="none" app:name="Android File Browser" app:image="https://static.wixstatic.com/media/c5d4ea_250357a8541e43ea8b7d95afd0aefe89~mv2.png" app:pricing="0" />
+          <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Programs%20Store%20Data/Android%20File%20Browser.txt" app:name="Android File Browser" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Android%20File%20Browser.png" app:pricing="0" />
           <item page:package="none" app:name="Groove Music" app:image="https://static.wixstatic.com/media/c5d4ea_1e5c1774d9154353ba6ea7d8f86bcaf4~mv2.png" app:pricing="0" />
           <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Programs%20Store%20Data/Internet%20Explorer.txt" app:name="Internet Explorer" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Internet%20Explorer.png" app:pricing="0" />
      </popular-page>
