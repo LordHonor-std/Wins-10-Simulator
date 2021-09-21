@@ -29,7 +29,7 @@
           <item page:package="none" app:name="Camera" app:image="https://static.wixstatic.com/media/c5d4ea_b8bfc97d2d5649aeb077de0414dbd01d~mv2.png" app:pricing="0" />
           <item page:package="none" app:name="Android File Browser" app:image="https://static.wixstatic.com/media/c5d4ea_250357a8541e43ea8b7d95afd0aefe89~mv2.png" app:pricing="0" />
           <item page:package="none" app:name="Groove Music" app:image="https://static.wixstatic.com/media/c5d4ea_1e5c1774d9154353ba6ea7d8f86bcaf4~mv2.png" app:pricing="0" />
-          <item page:package="none" app:name="Internet Explorer" app:image="https://static.wixstatic.com/media/c5d4ea_64ba887a3b9e4583a1baaaa990503f76~mv2.png" app:pricing="0" />
+          <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Programs%20Store%20Data/Internet%20Explorer.txt" app:name="Internet Explorer" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Internet%20Explorer.png" app:pricing="0" />
      </popular-page>
 
      <suggested-page>
