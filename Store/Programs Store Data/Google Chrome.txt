@@ -16,10 +16,10 @@
           app:developer="Google LLC"
           app:publisher="LordHonor std."
           app:price="0"
-          page:shortDescription="Hızlı, basit ve güvenli. Windows için Google Chrome tarayıcı"
-          page:description="Hızlı, basit ve güvenli. Windows için Google Chrome tarayıcı
+          page:shortDescription="Fast, simple and secure. Google Chrome browser for Windows"
+          page:description="Fast, simple and secure. Google Chrome browser for Windows
 
-Google Chrome hızlı, kullanımı kolay ve güvenli bir web tarayıcısıdır."
+Google Chrome is a fast, easy to use and secure web browser."
      <status>
 
      <screen-shots>
