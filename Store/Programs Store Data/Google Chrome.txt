@@ -24,13 +24,11 @@ Google Chrome hızlı, kullanımı kolay ve güvenli bir web tarayıcısıdır."
 
      <screen-shots>
           page:shotsCount="3"
-          page:schot="https://drive.google.com/uc?export=download&id=1CoalExoXfjbWH3A4keXlTALDw-5A7PLH"
-          page:schot="https://drive.google.com/uc?export=download&id=1IQPONqiWARy323eRe8BI7XoapKkNO84I"
-          page:schot="https://drive.google.com/uc?export=download&id=10x4xLPNpYmm0EEfssQhOwvtLkJ7im4tr"
+          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Google%20Chrome%20SS.png"
      </screen-shots>
 
      <additional-information>
-          app:releaseDate="13.04.2021"
+          app:releaseDate="01.10.2021"
           app:approxSize="43,1 KB"
           app:ageRating="7+"
           app:targetpath="C:\Program Files\Google"

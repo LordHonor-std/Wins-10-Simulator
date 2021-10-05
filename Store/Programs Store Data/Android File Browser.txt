@@ -25,7 +25,7 @@
      </screen-shots>
 
      <additional-information>
-          app:releaseDate="21.09.2021"
+          app:releaseDate="01.10.2021"
           app:approxSize="673 KB"
           app:ageRating="7+"
           app:targetpath="C:\Program Files\LordHonor"

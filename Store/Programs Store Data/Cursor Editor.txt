@@ -22,11 +22,11 @@
 
      <screen-shots>
           page:shotsCount="1"
-          page:schot=""
+          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Cursor%20Editor%20SS.png"
      </screen-shots>
 
      <additional-information>
-          app:releaseDate="00.09.2021"
+          app:releaseDate="01.10.2021"
           app:approxSize="25.6 KB"
           app:ageRating="3+"
           app:targetpath="C:\Program Files\LordHonor"

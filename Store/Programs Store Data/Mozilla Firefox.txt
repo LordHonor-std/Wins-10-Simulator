@@ -22,11 +22,11 @@
 
      <screen-shots>
           page:shotsCount="1"
-          page:schot=""
+          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Mozilla%20Firefox%20SS.png"
      </screen-shots>
 
      <additional-information>
-          app:releaseDate="09.09.2021"
+          app:releaseDate="01.10.2021"
           app:approxSize="1,15 MB"
           app:ageRating="7+"
           app:targetpath="C:\Program Files"
