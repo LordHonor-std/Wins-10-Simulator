@@ -23,7 +23,7 @@ Google Chrome hızlı, kullanımı kolay ve güvenli bir web tarayıcısıdır."
      <status>
 
      <screen-shots>
-          page:shotsCount="3"
+          page:shotsCount="1"
           page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Textures/Google%20Chrome%20SS.png"
      </screen-shots>
 
