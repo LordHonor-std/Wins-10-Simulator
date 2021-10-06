@@ -1,1 +1,1 @@
-v.2.1.0"https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Documents/2.1.0/Windows%2010.zip"
+v.2.1.1"https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Documents/2.1.1/Windows%2010.zip"
