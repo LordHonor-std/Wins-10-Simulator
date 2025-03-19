@@ -2,6 +2,6 @@
 <main>
      <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Store%20Data/Colorful.txt" app:name="Colorful" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Colorful.jpg" app:pricing="0" />
      <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Store%20Data/Windows%2011%20Wallpapers.txt" app:name="Windows 11 Wallpapers" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Windows%2011%20Wallpapers.jpg" app:pricing="0" />
-<item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Store%20Data/Pantone%20C.txt" app:name="Pantone Color of the Year 2022" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Pantone%20C.jpg" app:pricing="0" />
-<item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Store%20Data/Stars%20at.txt" app:name="Stars at Night" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Stars%20at.jpg" app:pricing="0" />
+    <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Store%20Data/Pantone%20C.txt" app:name="Pantone Color of the Year 2022" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Pantone%20C.jpg" app:pricing="0" />
+    <item page:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Store%20Data/Stars%20at.txt" app:name="Stars at Night" app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Stars%20at.jpg" app:pricing="0" />
 </main>
