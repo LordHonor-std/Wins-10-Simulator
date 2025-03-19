@@ -1,8 +1,8 @@
 <?view="true" info=""?>
 <main>
      <informations>
-          app:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Files/Pride%20202.zip"
-          app:name="Google Chrome"
+          app:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Files/Colorful.zip"
+          app:name="Colorful"
           app:versionCode="1"
           app:versionName="1.0"
           <designe page:header="" page:pos="" page:scale="" />
@@ -11,21 +11,21 @@
      <status>
           ad:type="none"
           category:name="Themes"
-          page:backgroundTexture="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Pride%20202%20Bg.jpg"
-          app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Pride%20202.jpg"
+          page:backgroundTexture="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Colorful%20Bg.jpg"
+          app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Colorful.jpg"
           app:developer="Microsoft Corporation"
           app:publisher="LordHonor std."
           app:price="0"
-          page:shortDescription="Spice up your desktop with Pride 202 background images."
-          page:description="Spice up your desktop with Pride 202 background images."
+          page:shortDescription="Spice up your desktop with colorful background images."
+          page:description="Spice up your desktop with colorful background images."
      <status>
 
      <screen-shots>
           page:shotsCount="4"
-          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Pride%20202.jpg"
-          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Pride%20202%20SS.jpg"
-          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Pride%20202%20SS2.jpg"
-          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Pride%20202%20SS3.jpg"
+          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Colorful.jpg"
+          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Colorful%20SS.jpg"
+          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Colorful%20SS2.jpg"
+          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Colorful%20SS3.jpg"
      </screen-shots>
 
      <additional-information>
