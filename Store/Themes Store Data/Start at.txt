@@ -1,0 +1,38 @@
+<?view="true" info=""?>
+<main>
+     <informations>
+          app:package="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Files/Stars%20at.zip"
+          app:name="Stars at Night"
+          app:versionCode="1"
+          app:versionName="1.0.0"
+          <designe page:header="" page:pos="" page:scale="" />
+     </informations>
+
+     <status>
+          ad:type="in"
+          category:name="Themes"
+          page:backgroundTexture="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Stars%20at%20Bg.jpg"
+          app:image="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Stars%20at.jpg"
+          app:developer="Microsoft Corporation"
+          app:publisher="LordHonor std."
+          app:price="0"
+          page:shortDescription="Amazing time-lapse photography that blends landscapes like the Matterhorn and lava flows in Hawaii with the hidden brilliance and color of the night sky. This 19-set theme for Windows is free."
+          page:description="Amazing time-lapse photography that blends landscapes like the Matterhorn and lava flows in Hawaii with the hidden brilliance and color of the night sky. This 19-set theme for Windows is free."
+     <status>
+
+     <screen-shots>
+          page:shotsCount="4"
+          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Stars%20at%20SS1.jpg"
+          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Stars%20at%20SS2.jpg"
+          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Stars%20at%20SS3.jpg"
+          page:schot="https://github.com/LordHonor-std/Wins-10-Simulator/raw/main/Store/Themes%20Textures/Stars%20at%20SS4.jpg"
+     </screen-shots>
+
+     <additional-information>
+          app:releaseDate="19.03.2025"
+          app:approxSize="16.1 MB"
+          app:ageRating="3+"
+          app:targetpath="C:\Users\Admin\AppData\Local\Microsoft\Windows\Themes"
+          app:exefpath="C:\Users\Admin\AppData\Local\Microsoft\Windows\Themes"
+     </additional-information>
+</main>
